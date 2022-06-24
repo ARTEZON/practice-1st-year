@@ -1,0 +1,56 @@
+{
+    "signature": "AuthMe Database, version 1.0",
+    "last_id": 5,
+    "users": [
+        {
+            "id": 1,
+            "surname": "Колосов",
+            "name": "Вячеслав",
+            "patronym": "Романович",
+            "phone": "+7-(934)-260-89-61",
+            "e-mail": "vyacheslav3816@rambler.ru",
+            "login": "kolosov",
+            "password": "bcf1afed4262f6405bc59982fa2bd3bbac3ac948a332f008dced6c3301ae4f4b"
+        },
+        {
+            "id": 2,
+            "surname": "Малец",
+            "name": "Ника",
+            "patronym": "Павловна",
+            "phone": "+7-(977)-277-80-41",
+            "e-mail": "nika1995@yandex.ru",
+            "login": "nikamalec",
+            "password": "1bb16b90279c54e91591183a26a4253aef3a97b7a6cf0ad3e0f295f5ee69d211"
+        },
+        {
+            "id": 3,
+            "surname": "Becker",
+            "name": "Jerry",
+            "patronym": "",
+            "phone": "+7-(935)-847-12-87",
+            "e-mail": "jerry.2.0.0.1@gmail.com",
+            "login": "JB2001",
+            "password": "c718a36ef12646b6e9400d41942dbacf104b001a60cdbdc12cebbf078965f921"
+        },
+        {
+            "id": 4,
+            "surname": "Колосов",
+            "name": "Константин",
+            "patronym": "Николаевич",
+            "phone": "+7-(998)-164-82-23",
+            "e-mail": "kostya228@mail.ru",
+            "login": "kostya228",
+            "password": "5f815dfd72fddbb3080ac21c67ac236ddb851af197694165c27865beb6316277"
+        },
+        {
+            "id": 5,
+            "surname": "Carson",
+            "name": "Amelia-Rose",
+            "patronym": "",
+            "phone": "+7-(998)-164-82-23",
+            "e-mail": "AmeliaRose@yahoo.com",
+            "login": "Beirate2006",
+            "password": "f6a731b6347941f2a0bfada2214fb618232a8e8fc1a61511ee6aeea93f4611c0"
+        }
+    ]
+}

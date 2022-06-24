@@ -1,0 +1,76 @@
+{
+    "signature": "AuthMe Database, version 1.0",
+    "last_id": 10,
+    "users": [
+        {
+            "id": 1,
+            "surname": "Эзри",
+            "name": "Артём",
+            "patronym": "Александрович",
+            "phone": "+7-(222)-222-22-22",
+            "e-mail": "artem@example.ru",
+            "login": "ARTEZON",
+            "password": "934639389ce71e4a4ec86d03930805b34ae636603063bca463c849c398d2fd41"
+        },
+        {
+            "id": 3,
+            "surname": "Фыв",
+            "name": "Фыв",
+            "patronym": "Who",
+            "phone": "+7-(777)-777-77-77",
+            "e-mail": "moya.pochta@mail.ru",
+            "login": "1234",
+            "password": "f331019f59300cacdf6cd416659eb96320afad6dccce328a96bc7144b6c3d138"
+        },
+        {
+            "id": 4,
+            "surname": "Мяу",
+            "name": "Гав",
+            "patronym": "Кис-Кис",
+            "phone": "+7-(912)-837-47-65",
+            "e-mail": "dradley_the_cat@gmail.com",
+            "login": "Cat",
+            "password": "6a16d4024b6aa42fd30c6e1640ed275038acffab31acb6579cf1c4cc9f358126"
+        },
+        {
+            "id": 6,
+            "surname": "Тест",
+            "name": "Тест",
+            "patronym": "",
+            "phone": "+7-(987)-654-32-10",
+            "e-mail": "test@example.com",
+            "login": "test",
+            "password": "fbec7ec4d3e2585e5836ec6c797b1c83e523f4a190a70e1666ed491358965a17"
+        },
+        {
+            "id": 7,
+            "surname": "Qwerty",
+            "name": "Uiop",
+            "patronym": "Netu",
+            "phone": "+7-(228)-133-76-69",
+            "e-mail": "xyz@yahoo.com",
+            "login": "admin",
+            "password": "3461eaf7b0bf1efd76a5fefd0b9d54cc852465d0aa7a2b046687df066c984bfc"
+        },
+        {
+            "id": 9,
+            "surname": "Aaa",
+            "name": "Aaaa",
+            "patronym": "Sss",
+            "phone": "+7-(777)-777-77-77",
+            "e-mail": "AAA@AA.A",
+            "login": "AAAAAA",
+            "password": "9bc4c550305c357f5607661e7c82e0df522ff18655410125d5b44738a3e25a5a"
+        },
+        {
+            "id": 10,
+            "surname": "Один",
+            "name": "Два",
+            "patronym": "Три",
+            "phone": "+7-(000)-000-00-00",
+            "e-mail": "qwe@rt.y",
+            "login": "wasd",
+            "password": "f4b1f821222c96bcf166539e7e6b2bc8ab77155018922f66b0c927eb68a2e04c"
+        }
+    ]
+}

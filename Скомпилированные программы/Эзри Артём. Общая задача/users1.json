@@ -1,0 +1,26 @@
+{
+    "signature": "AuthMe Database, version 1.0",
+    "last_id": 2,
+    "users": [
+        {
+            "id": 1,
+            "surname": "Эзри",
+            "name": "Артём",
+            "patronym": "Александрович",
+            "phone": "+7-(987)-654-32-1",
+            "e-mail": "artem@example.ru",
+            "login": "admin",
+            "password": "6b0efd44513aa581821134ed5131da6ca2d8a04db6f225ce66355f0b07888b50"
+        },
+        {
+            "id": 2,
+            "surname": "Steve",
+            "name": "Jobs",
+            "patronym": "",
+            "phone": "+7-(777)-777-77-77",
+            "e-mail": "steve@apple.com",
+            "login": "steve1955",
+            "password": "1bb16b90279c54e91591183a26a4253aef3a97b7a6cf0ad3e0f295f5ee69d211"
+        },
+    ]
+}
