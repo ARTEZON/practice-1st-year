@@ -1,0 +1,1 @@
+"D:\Python\Python venv\3.8\Scripts\activate.bat" && "D:\Python\Python venv\3.8\Python\python.exe" -m nuitka --standalone main.py --enable-plugin=pyqt5 --remove-output --mingw64 --windows-disable-console
